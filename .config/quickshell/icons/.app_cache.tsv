@@ -1,0 +1,179 @@
+GNUSim8085	/usr/share/applications/GNUSim8085.desktop	/home/rohan/.config/quickshell/icons/_usr_share_icons_hicolor_scalable_apps_gnusim8085.svg.png
+Stacer	/usr/share/applications/stacer.desktop	/home/rohan/.config/quickshell/icons/stacer.png
+GrassMarlin	/usr/share/applications/grassmarlin.desktop	
+auto-cpufreq	/usr/share/applications/auto-cpufreq-gtk.desktop	/home/rohan/.config/quickshell/icons/auto-cpufreq.png
+Zoom Workplace	/usr/share/applications/Zoom.desktop	/home/rohan/.config/quickshell/icons/Zoom.png
+Claude	/usr/share/applications/claude-desktop.desktop	/home/rohan/.config/quickshell/icons/claude-desktop.png
+balenaEtcher	/usr/share/applications/balena-etcher.desktop	/home/rohan/.config/quickshell/icons/balena-etcher.png
+Jupyter Qt console	/usr/share/applications/jupyter-qtconsole.desktop	/home/rohan/.config/quickshell/icons/network-idle.png
+Problem Reporting	/usr/share/applications/org.freedesktop.GnomeAbrt.desktop	/home/rohan/.config/quickshell/icons/org.freedesktop.GnomeAbrt.png
+GNU Radio Companion	/usr/share/applications/gnuradio-grc.desktop	/home/rohan/.config/quickshell/icons/gnuradio-grc.png
+mpv Media Player	/usr/share/applications/mpv.desktop	/home/rohan/.config/quickshell/icons/mpv.png
+OpenCASCADE Draw	/usr/share/applications/opencascade-draw.desktop	/home/rohan/.config/quickshell/icons/occ.png
+Contacts	/usr/share/applications/org.gnome.Contacts.desktop	/home/rohan/.config/quickshell/icons/org.gnome.Contacts.png
+Calendar	/usr/share/applications/org.gnome.Calendar.desktop	/home/rohan/.config/quickshell/icons/org.gnome.Calendar.png
+Clocks	/usr/share/applications/org.gnome.clocks.desktop	/home/rohan/.config/quickshell/icons/org.gnome.clocks.png
+Weather	/usr/share/applications/org.gnome.Weather.desktop	/home/rohan/.config/quickshell/icons/org.gnome.Weather.png
+Image Viewer	/usr/share/applications/org.gnome.Loupe.desktop	/home/rohan/.config/quickshell/icons/org.gnome.Loupe.png
+Videos	/usr/share/applications/org.gnome.Totem.desktop	/home/rohan/.config/quickshell/icons/org.gnome.Totem.png
+Icon Browser	/usr/share/applications/yad-icon-browser.desktop	/home/rohan/.config/quickshell/icons/yad.png
+Parental Controls	/usr/share/applications/org.freedesktop.MalcontentControl.desktop	/home/rohan/.config/quickshell/icons/org.freedesktop.MalcontentControl.png
+Document Viewer	/usr/share/applications/org.gnome.Evince.desktop	/home/rohan/.config/quickshell/icons/org.gnome.Evince.png
+Terminal	/usr/share/applications/org.gnome.Ptyxis.desktop	/home/rohan/.config/quickshell/icons/org.gnome.Ptyxis.png
+Rhythmbox	/usr/share/applications/org.gnome.Rhythmbox3.desktop	/home/rohan/.config/quickshell/icons/org.gnome.Rhythmbox3.png
+Krusader	/usr/share/applications/org.kde.krusader.desktop	/home/rohan/.config/quickshell/icons/krusader_user.png
+Raspberry Pi Imager	/usr/share/applications/com.raspberrypi.rpi-imager.desktop	/home/rohan/.config/quickshell/icons/rpi-imager.png
+GNU Image Manipulation Program	/usr/share/applications/gimp.desktop	/home/rohan/.config/quickshell/icons/gimp.png
+Kaffeine	/usr/share/applications/org.kde.kaffeine.desktop	/home/rohan/.config/quickshell/icons/kaffeine.png
+Text Editor	/usr/share/applications/org.gnome.TextEditor.desktop	/home/rohan/.config/quickshell/icons/org.gnome.TextEditor.png
+Inkscape	/usr/share/applications/org.inkscape.Inkscape.desktop	/home/rohan/.config/quickshell/icons/org.inkscape.Inkscape.png
+Screenshot	/usr/share/applications/xfce4-screenshooter.desktop	/home/rohan/.config/quickshell/icons/org.xfce.screenshooter.png
+Camera	/usr/share/applications/org.gnome.Snapshot.desktop	/home/rohan/.config/quickshell/icons/org.gnome.Snapshot.png
+nwg-panel Settings	/usr/share/applications/nwg-panel-config.desktop	/home/rohan/.config/quickshell/icons/nwg-panel.png
+Connections	/usr/share/applications/org.gnome.Connections.desktop	/home/rohan/.config/quickshell/icons/org.gnome.Connections.png
+FontForge	/usr/share/applications/org.fontforge.FontForge.desktop	/home/rohan/.config/quickshell/icons/org.fontforge.FontForge.png
+Characters	/usr/share/applications/org.gnome.Characters.desktop	/home/rohan/.config/quickshell/icons/org.gnome.Characters.png
+Calculator	/usr/share/applications/org.gnome.Calculator.desktop	/home/rohan/.config/quickshell/icons/org.gnome.Calculator.png
+GNOME System Monitor	/usr/share/applications/gnome-system-monitor-kde.desktop	/home/rohan/.config/quickshell/icons/org.gnome.SystemMonitor.png
+System Monitor	/usr/share/applications/org.gnome.SystemMonitor.desktop	/home/rohan/.config/quickshell/icons/org.gnome.SystemMonitor.png
+Disks	/usr/share/applications/org.gnome.DiskUtility.desktop	/home/rohan/.config/quickshell/icons/org.gnome.DiskUtility.png
+Disk Usage Analyzer	/usr/share/applications/org.gnome.baobab.desktop	/home/rohan/.config/quickshell/icons/org.gnome.baobab.png
+Fonts	/usr/share/applications/org.gnome.font-viewer.desktop	/home/rohan/.config/quickshell/icons/org.gnome.font-viewer.png
+Logs	/usr/share/applications/org.gnome.Logs.desktop	/home/rohan/.config/quickshell/icons/org.gnome.Logs.png
+Document Scanner	/usr/share/applications/org.gnome.SimpleScan.desktop	/home/rohan/.config/quickshell/icons/org.gnome.SimpleScan.png
+Color Profile Viewer	/usr/share/applications/org.gnome.ColorProfileViewer.desktop	/home/rohan/.config/quickshell/icons/gnome-color-manager.png
+GTKWave	/usr/share/applications/gtkwave.desktop	/home/rohan/.config/quickshell/icons/gtkwave.png
+Spyder	/usr/share/applications/spyder.desktop	/home/rohan/.config/quickshell/icons/spyder.png
+Qt5 Settings	/usr/share/applications/qt5ct.desktop	/home/rohan/.config/quickshell/icons/preferences-desktop-theme.png
+Phoronix Test Suite	/usr/share/applications/phoronix-test-suite.desktop	/home/rohan/.config/quickshell/icons/phoronix-test-suite.png
+Thonny	/usr/share/applications/org.thonny.Thonny.desktop	/home/rohan/.config/quickshell/icons/thonny.png
+rxvt-unicode	/usr/share/applications/rxvt-unicode.desktop	/home/rohan/.config/quickshell/icons/utilities-terminal.png
+Rofi Theme Selector	/usr/share/applications/rofi-theme-selector.desktop	/home/rohan/.config/quickshell/icons/rofi.png
+Rofi	/usr/share/applications/rofi.desktop	/home/rohan/.config/quickshell/icons/rofi.png
+uuctl	/usr/share/applications/uuctl.desktop	/home/rohan/.config/quickshell/icons/applications-system.png
+Qt6 Settings	/usr/share/applications/qt6ct.desktop	/home/rohan/.config/quickshell/icons/preferences-desktop-theme.png
+Kvantum Manager	/usr/share/applications/kvantummanager.desktop	/home/rohan/.config/quickshell/icons/kvantum.png
+Files	/usr/share/applications/org.gnome.Nautilus.desktop	/home/rohan/.config/quickshell/icons/org.gnome.Nautilus.png
+Rygel Preferences	/usr/share/applications/rygel-preferences.desktop	/home/rohan/.config/quickshell/icons/rygel.png
+Waydroid	/usr/share/applications/Waydroid.desktop	/home/rohan/.config/quickshell/icons/waydroid.png
+btop++	/usr/share/applications/btop.desktop	/home/rohan/.config/quickshell/icons/btop.png
+Alacritty	/usr/share/applications/Alacritty.desktop	/home/rohan/.config/quickshell/icons/Alacritty.png
+Audacity	/usr/share/applications/audacity.desktop	/home/rohan/.config/quickshell/icons/audacity.png
+Software	/usr/share/applications/org.gnome.Software.desktop	/home/rohan/.config/quickshell/icons/org.gnome.Software.png
+gedit	/usr/share/applications/org.gnome.gedit.desktop	/home/rohan/.config/quickshell/icons/org.gnome.gedit.png
+TigerVNC	/usr/share/applications/vncviewer.desktop	/home/rohan/.config/quickshell/icons/tigervnc.png
+Dolphin	/usr/share/applications/org.kde.dolphin.desktop	/home/rohan/.config/quickshell/icons/org.kde.dolphin.png
+KTorrent	/usr/share/applications/org.kde.ktorrent.desktop	/home/rohan/.config/quickshell/icons/ktorrent.png
+Krfb	/usr/share/applications/org.kde.krfb.desktop	/home/rohan/.config/quickshell/icons/krfb.png
+KRDC	/usr/share/applications/org.kde.krdc.desktop	/home/rohan/.config/quickshell/icons/krdc.png
+Ark	/usr/share/applications/org.kde.ark.desktop	/home/rohan/.config/quickshell/icons/ark.png
+Konsole	/usr/share/applications/org.kde.konsole.desktop	/home/rohan/.config/quickshell/icons/utilities-terminal.png
+KDE Connect	/usr/share/applications/org.kde.kdeconnect.app.desktop	/home/rohan/.config/quickshell/icons/kdeconnect.png
+KDE Connect Indicator	/usr/share/applications/org.kde.kdeconnect.nonplasma.desktop	/home/rohan/.config/quickshell/icons/kdeconnect.png
+KDE Connect SMS	/usr/share/applications/org.kde.kdeconnect.sms.desktop	/home/rohan/.config/quickshell/icons/kdeconnect.png
+KWrite	/usr/share/applications/org.kde.kwrite.desktop	/home/rohan/.config/quickshell/icons/kwrite.png
+Journald Browser	/usr/share/applications/org.kde.kjournaldbrowser.desktop	/home/rohan/.config/quickshell/icons/utilities-log-viewer.png
+KDE Partition Manager	/usr/share/applications/org.kde.partitionmanager.desktop	/home/rohan/.config/quickshell/icons/partitionmanager.png
+Skanpage	/usr/share/applications/org.kde.skanpage.desktop	/home/rohan/.config/quickshell/icons/skanpage.png
+NeoChat	/usr/share/applications/org.kde.neochat.desktop	/home/rohan/.config/quickshell/icons/org.kde.neochat.png
+KMahjongg	/usr/share/applications/org.kde.kmahjongg.desktop	/home/rohan/.config/quickshell/icons/kmahjongg.png
+Okular	/usr/share/applications/org.kde.okular.desktop	/home/rohan/.config/quickshell/icons/okular.png
+KMines	/usr/share/applications/org.kde.kmines.desktop	/home/rohan/.config/quickshell/icons/kmines.png
+KPatience	/usr/share/applications/org.kde.kpat.desktop	/home/rohan/.config/quickshell/icons/kpat.png
+Qrca	/usr/share/applications/org.kde.qrca.desktop	/home/rohan/.config/quickshell/icons/org.kde.qrca.png
+Volume Control	/usr/share/applications/org.pulseaudio.pavucontrol.desktop	/home/rohan/.config/quickshell/icons/org.pulseaudio.pavucontrol.png
+KWalletManager	/usr/share/applications/org.kde.kwalletmanager.desktop	/home/rohan/.config/quickshell/icons/kwalletmanager.png
+KMouth	/usr/share/applications/org.kde.kmouth.desktop	/home/rohan/.config/quickshell/icons/kmouth.png
+Help Center	/usr/share/applications/org.kde.khelpcenter.desktop	/home/rohan/.config/quickshell/icons/help-browser.png
+KFind	/usr/share/applications/org.kde.kfind.desktop	/home/rohan/.config/quickshell/icons/kfind.png
+KDebugSettings	/usr/share/applications/org.kde.kdebugsettings.desktop	/home/rohan/.config/quickshell/icons/debug-run.png
+KCharSelect	/usr/share/applications/org.kde.kcharselect.desktop	/home/rohan/.config/quickshell/icons/accessories-character-map.png
+KCalc	/usr/share/applications/org.kde.kcalc.desktop	/home/rohan/.config/quickshell/icons/accessories-calculator.png
+Filelight	/usr/share/applications/org.kde.filelight.desktop	/home/rohan/.config/quickshell/icons/filelight.png
+Firewall	/usr/share/applications/firewall-config.desktop	/home/rohan/.config/quickshell/icons/firewall-config.png
+Steam	/usr/share/applications/steam.desktop	/home/rohan/.config/quickshell/icons/steam.png
+Fedora Media Writer	/usr/share/applications/org.fedoraproject.MediaWriter.desktop	/home/rohan/.config/quickshell/icons/org.fedoraproject.MediaWriter.png
+scrcpy (console)	/usr/share/applications/scrcpy-console.desktop	/home/rohan/.config/quickshell/icons/scrcpy.png
+scrcpy	/usr/share/applications/scrcpy.desktop	/home/rohan/.config/quickshell/icons/scrcpy.png
+Blender	/usr/share/applications/blender.desktop	/home/rohan/.config/quickshell/icons/blender.png
+KiCad Image Converter	/usr/share/applications/org.kicad.bitmap2component.desktop	/home/rohan/.config/quickshell/icons/bitmap2component.png
+KiCad Schematic Editor (Standalone)	/usr/share/applications/org.kicad.eeschema.desktop	/home/rohan/.config/quickshell/icons/eeschema.png
+KiCad Gerber Viewer	/usr/share/applications/org.kicad.gerbview.desktop	/home/rohan/.config/quickshell/icons/gerbview.png
+KiCad	/usr/share/applications/org.kicad.kicad.desktop	/home/rohan/.config/quickshell/icons/kicad.png
+KiCad PCB Calculator	/usr/share/applications/org.kicad.pcbcalculator.desktop	/home/rohan/.config/quickshell/icons/pcbcalculator.png
+KiCad PCB Editor (Standalone)	/usr/share/applications/org.kicad.pcbnew.desktop	/home/rohan/.config/quickshell/icons/pcbnew.png
+TeXstudio	/usr/share/applications/texstudio.desktop	/home/rohan/.config/quickshell/icons/texstudio.png
+Tour	/usr/share/applications/org.gnome.Tour.desktop	/home/rohan/.config/quickshell/icons/org.gnome.Tour.png
+Maps	/usr/share/applications/org.gnome.Maps.desktop	/home/rohan/.config/quickshell/icons/org.gnome.Maps.png
+Settings	/usr/share/applications/org.gnome.Settings.desktop	/home/rohan/.config/quickshell/icons/org.gnome.Settings.png
+Discover	/usr/share/applications/org.kde.discover.desktop	/home/rohan/.config/quickshell/icons/plasmadiscover.png
+KDE System Settings	/usr/share/applications/kdesystemsettings.desktop	/home/rohan/.config/quickshell/icons/preferences-system.png
+System Settings	/usr/share/applications/systemsettings.desktop	/home/rohan/.config/quickshell/icons/preferences-system.png
+Menu Editor	/usr/share/applications/org.kde.kmenuedit.desktop	/home/rohan/.config/quickshell/icons/kmenuedit.png
+Emoji Selector	/usr/share/applications/org.kde.plasma.emojier.desktop	/home/rohan/.config/quickshell/icons/preferences-desktop-emoticons.png
+Info Center	/usr/share/applications/org.kde.kinfocenter.desktop	/home/rohan/.config/quickshell/icons/hwinfo.png
+Spectacle	/usr/share/applications/org.kde.spectacle.desktop	/home/rohan/.config/quickshell/icons/spectacle.png
+Welcome Center	/usr/share/applications/org.kde.plasma-welcome.desktop	
+Crashed Processes Viewer	/usr/share/applications/org.kde.drkonqi.coredump.gui.desktop	/home/rohan/.config/quickshell/icons/tools-report-bug.png
+Virtual Machine Manager	/usr/share/applications/virt-manager.desktop	/home/rohan/.config/quickshell/icons/virt-manager.png
+Remote Viewer	/usr/share/applications/remote-viewer.desktop	/home/rohan/.config/quickshell/icons/virt-viewer.png
+Help	/usr/share/applications/org.gnome.Yelp.desktop	/home/rohan/.config/quickshell/icons/org.gnome.Yelp.png
+Chromium Web Browser	/usr/share/applications/chromium-browser.desktop	/home/rohan/.config/quickshell/icons/chromium-browser.png
+kitty	/usr/share/applications/kitty.desktop	/home/rohan/.config/quickshell/icons/kitty.png
+Magic VLSI Layout	/usr/share/applications/magic.desktop	
+Wireshark	/usr/share/applications/org.wireshark.Wireshark.desktop	/home/rohan/.config/quickshell/icons/org.wireshark.Wireshark.png
+Brave Web Browser	/usr/share/applications/brave-browser.desktop	/home/rohan/.config/quickshell/icons/brave-browser.png
+Documentation Navigator	/home/rohan/.local/share/applications/Documentation Navigator_1756656763130.desktop	
+Uninstall DocNav	/home/rohan/.local/share/applications/Uninstall DocNav_1756656763130.desktop	
+LM Studio	/home/rohan/.local/share/applications/lm_studio.desktop	/home/rohan/.config/quickshell/icons/_home_rohan_AppImages_.icons_lm_studio.png
+Vitis 2025.2	/home/rohan/.local/share/applications/Vitis 2025.2_1770836675473.desktop	/home/rohan/.config/quickshell/icons/_home_rohan_Xilinx_Vivado_2025.2_2025.2_Vitis_doc_images_ide_icon.png.png
+Vitis Model Composer 2025.2	/home/rohan/.local/share/applications/Vitis Model Composer 2025.2_1770836675534.desktop	/home/rohan/.config/quickshell/icons/_home_rohan_Xilinx_Vivado_2025.2_2025.2_Model_Composer_data_images_Compiler.png.png
+Uninstall Xilinx Information Center	/home/rohan/.local/share/applications/Uninstall Xilinx Information Center_1770836675595.desktop	/home/rohan/.config/quickshell/icons/_home_rohan_Xilinx_Vivado_2025.2_.xinstall_xic_data_images_xlnx_logo-256x256.png.png
+Xilinx Information Center	/home/rohan/.local/share/applications/Xilinx Information Center_1770836675608.desktop	/home/rohan/.config/quickshell/icons/_home_rohan_Xilinx_Vivado_2025.2_xic_data_images_xlnx_logo.png.png
+Vivado 2025.2 Tcl Shell	/home/rohan/.local/share/applications/Vivado 2025.2 Tcl Shell_1770836675639.desktop	
+Vivado 2025.2	/home/rohan/.local/share/applications/Vivado 2025.2_1770836675651.desktop	/home/rohan/.config/quickshell/icons/_home_rohan_Xilinx_Vivado_2025.2_2025.2_Vivado_doc_images_vivado_logo.png.png
+Manage Licenses 2025.2	/home/rohan/.local/share/applications/Manage Licenses 2025.2_1770836675665.desktop	
+Uninstall 2025.2	/home/rohan/.local/share/applications/Uninstall 2025.2_1770836675678.desktop	/home/rohan/.config/quickshell/icons/_home_rohan_Xilinx_Vivado_2025.2_.xinstall_2025.2_data_images_xlnx_logo-256x256.png.png
+Add Design Tools or Devices 2025.2	/home/rohan/.local/share/applications/Add Design Tools or Devices 2025.2_1770836675691.desktop	/home/rohan/.config/quickshell/icons/_home_rohan_Xilinx_Vivado_2025.2_.xinstall_2025.2_data_images_upgrade.png.png
+Ubuntu20.04-dev	/home/rohan/.local/share/applications/ubuntu20.04-dev.desktop	/home/rohan/.config/quickshell/icons/_home_rohan_.local_share_icons_distrobox_ubuntu.png.png
+Arch-dev	/home/rohan/.local/share/applications/arch-dev.desktop	/home/rohan/.config/quickshell/icons/_home_rohan_.local_share_icons_distrobox_arch.png.png
+Debian-dev	/home/rohan/.local/share/applications/debian-dev.desktop	/home/rohan/.config/quickshell/icons/_home_rohan_.local_share_icons_distrobox_debian.png.png
+Opensuse-dev	/home/rohan/.local/share/applications/opensuse-dev.desktop	/home/rohan/.config/quickshell/icons/_home_rohan_.local_share_icons_distrobox_opensuse-tumbleweed.png.png
+Centos-dev	/home/rohan/.local/share/applications/centos-dev.desktop	/home/rohan/.config/quickshell/icons/_home_rohan_.local_share_icons_distrobox_centos.png.png
+HiPER Scientific Calculator	/home/rohan/.local/share/applications/waydroid.cz.hipercalc.desktop	/home/rohan/.config/quickshell/icons/_home_rohan_.local_share_waydroid_data_icons_cz.hipercalc.png.png
+Gartic.io	/home/rohan/.local/share/applications/waydroid.io.gartic.Gartic.desktop	/home/rohan/.config/quickshell/icons/_home_rohan_.local_share_waydroid_data_icons_io.gartic.Gartic.png.png
+DrawNote	/home/rohan/.local/share/applications/waydroid.com.dragonnest.drawnote.desktop	/home/rohan/.config/quickshell/icons/_home_rohan_.local_share_waydroid_data_icons_com.dragonnest.drawnote.png.png
+Google Play Store	/home/rohan/.local/share/applications/waydroid.com.android.vending.desktop	/home/rohan/.config/quickshell/icons/_home_rohan_.local_share_waydroid_data_icons_com.android.vending.png.png
+Rally Fury	/home/rohan/.local/share/applications/waydroid.com.refuelgames.rally.desktop	/home/rohan/.config/quickshell/icons/_home_rohan_.local_share_waydroid_data_icons_com.refuelgames.rally.png.png
+WhatsApp	/home/rohan/.local/share/applications/waydroid.com.whatsapp.desktop	/home/rohan/.config/quickshell/icons/_home_rohan_.local_share_waydroid_data_icons_com.whatsapp.png.png
+Drive	/home/rohan/.local/share/applications/waydroid.com.google.android.apps.docs.desktop	/home/rohan/.config/quickshell/icons/_home_rohan_.local_share_waydroid_data_icons_com.google.android.apps.docs.png.png
+Brave	/home/rohan/.local/share/applications/waydroid.com.brave.browser.desktop	/home/rohan/.config/quickshell/icons/_home_rohan_.local_share_waydroid_data_icons_com.brave.browser.png.png
+ChatGPT	/home/rohan/.local/share/applications/waydroid.com.openai.chatgpt.desktop	/home/rohan/.config/quickshell/icons/_home_rohan_.local_share_waydroid_data_icons_com.openai.chatgpt.png.png
+Messages	/home/rohan/.local/share/applications/waydroid.com.google.android.apps.messaging.desktop	/home/rohan/.config/quickshell/icons/_home_rohan_.local_share_waydroid_data_icons_com.google.android.apps.messaging.png.png
+Perplexity	/home/rohan/.local/share/applications/waydroid.ai.perplexity.app.android.desktop	/home/rohan/.config/quickshell/icons/_home_rohan_.local_share_waydroid_data_icons_ai.perplexity.app.android.png.png
+Proton Pass	/home/rohan/.local/share/applications/waydroid.proton.android.pass.desktop	/home/rohan/.config/quickshell/icons/_home_rohan_.local_share_waydroid_data_icons_proton.android.pass.png.png
+Scilab	/var/lib/flatpak/exports/share/applications/org.scilab.Scilab.desktop	
+Scilab advanced CLI	/var/lib/flatpak/exports/share/applications/org.scilab.Scilab.scilab-adv-cli.desktop	
+Scilab CLI	/var/lib/flatpak/exports/share/applications/org.scilab.Scilab.scilab-cli.desktop	
+Scinotes	/var/lib/flatpak/exports/share/applications/org.scilab.Scilab.scinotes.desktop	
+Xcos	/var/lib/flatpak/exports/share/applications/org.scilab.Scilab.xcos.desktop	
+Ardour	/var/lib/flatpak/exports/share/applications/org.ardour.Ardour.desktop	/home/rohan/.config/quickshell/icons/org.ardour.Ardour.png
+Extension Manager	/var/lib/flatpak/exports/share/applications/com.mattjakeman.ExtensionManager.desktop	/home/rohan/.config/quickshell/icons/com.mattjakeman.ExtensionManager.png
+VLC media player	/var/lib/flatpak/exports/share/applications/org.videolan.VLC.desktop	/home/rohan/.config/quickshell/icons/org.videolan.VLC.png
+STM32CubeMX	/var/lib/flatpak/exports/share/applications/com.st.STM32CubeMX.desktop	
+Proton VPN	/var/lib/flatpak/exports/share/applications/com.protonvpn.www.desktop	/home/rohan/.config/quickshell/icons/com.protonvpn.www.png
+OBS Studio	/var/lib/flatpak/exports/share/applications/com.obsproject.Studio.desktop	/home/rohan/.config/quickshell/icons/com.obsproject.Studio.png
+Spotify	/var/lib/flatpak/exports/share/applications/com.spotify.Client.desktop	/home/rohan/.config/quickshell/icons/com.spotify.Client.png
+TigerVNC Viewer	/home/rohan/.local/share/flatpak/exports/share/applications/org.tigervnc.vncviewer.desktop	/home/rohan/.config/quickshell/icons/org.tigervnc.vncviewer.png
+JamesDSP	/home/rohan/.local/share/flatpak/exports/share/applications/me.timschneeberger.jdsp4linux.desktop	/home/rohan/.config/quickshell/icons/me.timschneeberger.jdsp4linux.png
+Cave Story NX	/home/rohan/.local/share/flatpak/exports/share/applications/com.gitlab.coringao.cavestory-nx.desktop	
+Follamac	/home/rohan/.local/share/flatpak/exports/share/applications/io.github.pejuko.follamac.desktop	
+ONLYOFFICE	/home/rohan/.local/share/flatpak/exports/share/applications/org.onlyoffice.desktopeditors.desktop	/home/rohan/.config/quickshell/icons/org.onlyoffice.desktopeditors.png
+Joplin	/home/rohan/.local/share/flatpak/exports/share/applications/net.cozic.joplin_desktop.desktop	
+ProtonUp-Qt	/home/rohan/.local/share/flatpak/exports/share/applications/net.davidotek.pupgui2.desktop	
+Drawy	/home/rohan/.local/share/flatpak/exports/share/applications/org.kde.drawy.desktop	/home/rohan/.config/quickshell/icons/org.kde.drawy.png
+HandBrake	/home/rohan/.local/share/flatpak/exports/share/applications/fr.handbrake.ghb.desktop	/home/rohan/.config/quickshell/icons/fr.handbrake.ghb.png
+Hidamari	/home/rohan/.local/share/flatpak/exports/share/applications/io.github.jeffshee.Hidamari.desktop	/home/rohan/.config/quickshell/icons/io.github.jeffshee.Hidamari.png
+Visual Studio Code	/home/rohan/.local/share/flatpak/exports/share/applications/com.visualstudio.code.desktop	
+Gear Lever	/home/rohan/.local/share/flatpak/exports/share/applications/it.mijorus.gearlever.desktop	/home/rohan/.config/quickshell/icons/it.mijorus.gearlever.png
+LosslessCut	/home/rohan/.local/share/flatpak/exports/share/applications/no.mifi.losslesscut.desktop	/home/rohan/.config/quickshell/icons/no.mifi.losslesscut.png

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1783585339666469742",
+    "name": "Claude",
+    "exec": "claude-desktop",
+    "icon": "/home/rohan/.config/quickshell/icons/claude-desktop.png"
+  },
+  {
+    "id": "1783585457303817304",
+    "name": "Brave Web Browser",
+    "exec": "/usr/bin/brave-browser-stable",
+    "icon": "/home/rohan/.config/quickshell/icons/brave-browser.png"
+  },
+  {
+    "id": "1783585898983714910",
+    "name": "KiCad",
+    "exec": "kicad",
+    "icon": "/home/rohan/.config/quickshell/icons/kicad.png"
+  },
+  {
+    "id": "1783586152460903371",
+    "name": "TigerVNC",
+    "exec": "/usr/bin/vncviewer",
+    "icon": "/home/rohan/.config/quickshell/icons/tigervnc.png"
+  },
+  {
+    "id": "1783593443734282633",
+    "name": "Waydroid",
+    "exec": "waydroid",
+    "icon": "/home/rohan/.config/quickshell/icons/waydroid.png"
+  },
+  {
+    "id": "1783618599713645028",
+    "name": "JamesDSP",
+    "exec": "/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=jamesdsp me.timschneeberger.jdsp4linux",
+    "icon": "/home/rohan/.config/quickshell/icons/me.timschneeberger.jdsp4linux.png"
+  },
+  {
+    "id": "1783618642835395142",
+    "name": "ONLYOFFICE",
+    "exec": "/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=desktopeditors --file-forwarding org.onlyoffice.desktopeditors @@u @@",
+    "icon": "/home/rohan/.config/quickshell/icons/org.onlyoffice.desktopeditors.png"
+  },
+  {
+    "id": "1783618695108163402",
+    "name": "Calculator",
+    "exec": "gnome-calculator",
+    "icon": "/home/rohan/.config/quickshell/icons/org.gnome.Calculator.png"
+  },
+  {
+    "id": "1786190272358051517",
+    "name": "Virtual Machine Manager",
+    "exec": "virt-manager",
+    "icon": "/home/rohan/.config/quickshell/icons/virt-manager.png"
+  }
+]

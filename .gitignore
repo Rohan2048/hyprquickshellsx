@@ -1,0 +1,8 @@
+# shortcuts data (personal)
+.config/eww/shortcuts.json
+
+# gtk bookmarks (personal paths)
+.config/gtk-3.0/bookmarks
+
+# pywal cache (generated at runtime)
+.cache/
