@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1787910707538529667",
+    "name": "Brave Web Browser",
+    "exec": "/usr/bin/brave-browser-stable",
+    "icon": "/home/rohan/.config/quickshell/icons/brave-browser.png"
+  },
+  {
+    "id": "1787999843058392861",
+    "name": "TigerVNC Viewer",
+    "exec": "/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=/app/bin/vncviewer org.tigervnc.vncviewer",
+    "icon": "/home/rohan/.config/quickshell/icons/org.tigervnc.vncviewer.png"
+  },
+  {
+    "id": "1788075841576705466",
+    "name": "Cave Story NX",
+    "exec": "/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=cavestory-nx com.gitlab.coringao.cavestory-nx",
+    "icon": "/home/rohan/.config/quickshell/icons/com.gitlab.coringao.cavestory-nx.png"
+  },
+  {
+    "id": "1788084981623642527",
+    "name": "OBS Studio",
+    "exec": "/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=obs com.obsproject.Studio",
+    "icon": "/home/rohan/.config/quickshell/icons/com.obsproject.Studio.png"
+  }
+]
