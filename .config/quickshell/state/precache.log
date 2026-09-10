@@ -1,0 +1,10 @@
+[20:15:34] hit:  wallpaper
+[20:15:34] hit:  hue-ring
+[20:15:34] hit:  wallpaper-thumbs
+[20:15:34] precache pass complete
+[20:39:50] miss: wallpaper -> generating
+[20:39:50] miss: wallpaper-thumbs -> generating
+[20:39:50] hit:  hue-ring
+[20:39:52] done: wallpaper-thumbs
+[20:39:52] done: wallpaper
+[20:39:52] precache pass complete
