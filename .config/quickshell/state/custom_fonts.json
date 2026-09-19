@@ -1,0 +1,12 @@
+{
+    "fonts": [
+        {
+            "family": "TypoGraphica",
+            "path": "/home/rohan/Downloads/terminal_commands/allfonts/typographica-font/Typographica-Blp5.ttf"
+        },
+        {
+            "family": "Smash Hit",
+            "path": "/home/rohan/Downloads/terminal_commands/allfonts/smashhit_fixed/SmashHit.otf"
+        }
+    ]
+}

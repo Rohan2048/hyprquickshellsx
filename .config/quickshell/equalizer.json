@@ -1,0 +1,85 @@
+{
+  "enabled": true,
+  "bands": [
+    {
+      "freq": 25,
+      "freqLabel": "25",
+      "gain": 0
+    },
+    {
+      "freq": 40,
+      "freqLabel": "40",
+      "gain": 0
+    },
+    {
+      "freq": 63,
+      "freqLabel": "63",
+      "gain": 8.62423780487805
+    },
+    {
+      "freq": 100,
+      "freqLabel": "100",
+      "gain": 5.52667682926829
+    },
+    {
+      "freq": 160,
+      "freqLabel": "160",
+      "gain": 0
+    },
+    {
+      "freq": 250,
+      "freqLabel": "250",
+      "gain": 0
+    },
+    {
+      "freq": 400,
+      "freqLabel": "400",
+      "gain": 0
+    },
+    {
+      "freq": 630,
+      "freqLabel": "630",
+      "gain": -3.191310975609756
+    },
+    {
+      "freq": 1000,
+      "freqLabel": "1k",
+      "gain": -8.179115853658537
+    },
+    {
+      "freq": 1600,
+      "freqLabel": "1.6k",
+      "gain": 0
+    },
+    {
+      "freq": 2500,
+      "freqLabel": "2.5k",
+      "gain": 0
+    },
+    {
+      "freq": 4000,
+      "freqLabel": "4k",
+      "gain": -3.060975609756099
+    },
+    {
+      "freq": 6300,
+      "freqLabel": "6.3k",
+      "gain": -3.189786585365855
+    },
+    {
+      "freq": 10000,
+      "freqLabel": "10k",
+      "gain": 0
+    },
+    {
+      "freq": 16000,
+      "freqLabel": "16k",
+      "gain": 0
+    },
+    {
+      "freq": 20000,
+      "freqLabel": "20k",
+      "gain": 0
+    }
+  ]
+}

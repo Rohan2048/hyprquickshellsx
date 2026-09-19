@@ -1,0 +1,179 @@
+Alacritty	/usr/share/applications/Alacritty.desktop	Alacritty
+GNUSim8085	/usr/share/applications/GNUSim8085.desktop	_usr_share_icons_hicolor_scalable_apps_gnusim8085.svg
+Waydroid	/usr/share/applications/Waydroid.desktop	waydroid
+Zoom Workplace	/usr/share/applications/Zoom.desktop	Zoom
+Audacity	/usr/share/applications/audacity.desktop	audacity
+auto-cpufreq	/usr/share/applications/auto-cpufreq-gtk.desktop	auto-cpufreq
+balenaEtcher	/usr/share/applications/balena-etcher.desktop	balena-etcher
+Blender	/usr/share/applications/blender.desktop	blender
+Brave Web Browser	/usr/share/applications/brave-browser.desktop	brave-browser
+btop++	/usr/share/applications/btop.desktop	btop
+Chromium Web Browser	/usr/share/applications/chromium-browser.desktop	chromium-browser
+Claude	/usr/share/applications/claude-desktop.desktop	claude-desktop
+Raspberry Pi Imager	/usr/share/applications/com.raspberrypi.rpi-imager.desktop	rpi-imager
+Firewall	/usr/share/applications/firewall-config.desktop	firewall-config
+GNU Image Manipulation Program	/usr/share/applications/gimp.desktop	gimp
+GNOME System Monitor	/usr/share/applications/gnome-system-monitor-kde.desktop	org.gnome.SystemMonitor
+GNU Radio Companion	/usr/share/applications/gnuradio-grc.desktop	gnuradio-grc
+GrassMarlin	/usr/share/applications/grassmarlin.desktop	_usr_share_GrassMarlin_GrassMarlin.png
+GTKWave	/usr/share/applications/gtkwave.desktop	gtkwave
+Jupyter Qt console	/usr/share/applications/jupyter-qtconsole.desktop	network-idle
+KDE System Settings	/usr/share/applications/kdesystemsettings.desktop	preferences-system
+kitty	/usr/share/applications/kitty.desktop	kitty
+Kvantum Manager	/usr/share/applications/kvantummanager.desktop	kvantum
+Magic VLSI Layout	/usr/share/applications/magic.desktop	magic.png
+mpv Media Player	/usr/share/applications/mpv.desktop	mpv
+nwg-panel Settings	/usr/share/applications/nwg-panel-config.desktop	nwg-panel
+OpenCASCADE Draw	/usr/share/applications/opencascade-draw.desktop	occ
+Fedora Media Writer	/usr/share/applications/org.fedoraproject.MediaWriter.desktop	org.fedoraproject.MediaWriter
+FontForge	/usr/share/applications/org.fontforge.FontForge.desktop	org.fontforge.FontForge
+Problem Reporting	/usr/share/applications/org.freedesktop.GnomeAbrt.desktop	org.freedesktop.GnomeAbrt
+Parental Controls	/usr/share/applications/org.freedesktop.MalcontentControl.desktop	org.freedesktop.MalcontentControl
+Calculator	/usr/share/applications/org.gnome.Calculator.desktop	org.gnome.Calculator
+Calendar	/usr/share/applications/org.gnome.Calendar.desktop	org.gnome.Calendar
+Characters	/usr/share/applications/org.gnome.Characters.desktop	org.gnome.Characters
+Color Profile Viewer	/usr/share/applications/org.gnome.ColorProfileViewer.desktop	gnome-color-manager
+Connections	/usr/share/applications/org.gnome.Connections.desktop	org.gnome.Connections
+Contacts	/usr/share/applications/org.gnome.Contacts.desktop	org.gnome.Contacts
+Disks	/usr/share/applications/org.gnome.DiskUtility.desktop	org.gnome.DiskUtility
+Document Viewer	/usr/share/applications/org.gnome.Evince.desktop	org.gnome.Evince
+Logs	/usr/share/applications/org.gnome.Logs.desktop	org.gnome.Logs
+Image Viewer	/usr/share/applications/org.gnome.Loupe.desktop	org.gnome.Loupe
+Maps	/usr/share/applications/org.gnome.Maps.desktop	org.gnome.Maps
+Files	/usr/share/applications/org.gnome.Nautilus.desktop	org.gnome.Nautilus
+Terminal	/usr/share/applications/org.gnome.Ptyxis.desktop	org.gnome.Ptyxis
+Rhythmbox	/usr/share/applications/org.gnome.Rhythmbox3.desktop	org.gnome.Rhythmbox3
+Settings	/usr/share/applications/org.gnome.Settings.desktop	org.gnome.Settings
+Document Scanner	/usr/share/applications/org.gnome.SimpleScan.desktop	org.gnome.SimpleScan
+Camera	/usr/share/applications/org.gnome.Snapshot.desktop	org.gnome.Snapshot
+Software	/usr/share/applications/org.gnome.Software.desktop	org.gnome.Software
+System Monitor	/usr/share/applications/org.gnome.SystemMonitor.desktop	org.gnome.SystemMonitor
+Text Editor	/usr/share/applications/org.gnome.TextEditor.desktop	org.gnome.TextEditor
+Videos	/usr/share/applications/org.gnome.Totem.desktop	org.gnome.Totem
+Tour	/usr/share/applications/org.gnome.Tour.desktop	org.gnome.Tour
+Weather	/usr/share/applications/org.gnome.Weather.desktop	org.gnome.Weather
+Help	/usr/share/applications/org.gnome.Yelp.desktop	org.gnome.Yelp
+Disk Usage Analyzer	/usr/share/applications/org.gnome.baobab.desktop	org.gnome.baobab
+Clocks	/usr/share/applications/org.gnome.clocks.desktop	org.gnome.clocks
+Fonts	/usr/share/applications/org.gnome.font-viewer.desktop	org.gnome.font-viewer
+gedit	/usr/share/applications/org.gnome.gedit.desktop	org.gnome.gedit
+Inkscape	/usr/share/applications/org.inkscape.Inkscape.desktop	org.inkscape.Inkscape
+Ark	/usr/share/applications/org.kde.ark.desktop	ark
+Discover	/usr/share/applications/org.kde.discover.desktop	plasmadiscover
+Dolphin	/usr/share/applications/org.kde.dolphin.desktop	org.kde.dolphin
+Crashed Processes Viewer	/usr/share/applications/org.kde.drkonqi.coredump.gui.desktop	tools-report-bug
+Filelight	/usr/share/applications/org.kde.filelight.desktop	filelight
+Kaffeine	/usr/share/applications/org.kde.kaffeine.desktop	kaffeine
+KCalc	/usr/share/applications/org.kde.kcalc.desktop	accessories-calculator
+KCharSelect	/usr/share/applications/org.kde.kcharselect.desktop	accessories-character-map
+KDebugSettings	/usr/share/applications/org.kde.kdebugsettings.desktop	debug-run
+KDE Connect	/usr/share/applications/org.kde.kdeconnect.app.desktop	kdeconnect
+KDE Connect Indicator	/usr/share/applications/org.kde.kdeconnect.nonplasma.desktop	kdeconnect
+KDE Connect SMS	/usr/share/applications/org.kde.kdeconnect.sms.desktop	kdeconnect
+KFind	/usr/share/applications/org.kde.kfind.desktop	kfind
+Help Center	/usr/share/applications/org.kde.khelpcenter.desktop	help-browser
+Info Center	/usr/share/applications/org.kde.kinfocenter.desktop	hwinfo
+Journald Browser	/usr/share/applications/org.kde.kjournaldbrowser.desktop	utilities-log-viewer
+KMahjongg	/usr/share/applications/org.kde.kmahjongg.desktop	kmahjongg
+Menu Editor	/usr/share/applications/org.kde.kmenuedit.desktop	kmenuedit
+KMines	/usr/share/applications/org.kde.kmines.desktop	kmines
+KMouth	/usr/share/applications/org.kde.kmouth.desktop	kmouth
+Konsole	/usr/share/applications/org.kde.konsole.desktop	utilities-terminal
+KPatience	/usr/share/applications/org.kde.kpat.desktop	kpat
+KRDC	/usr/share/applications/org.kde.krdc.desktop	krdc
+Krfb	/usr/share/applications/org.kde.krfb.desktop	krfb
+Krusader	/usr/share/applications/org.kde.krusader.desktop	krusader_user
+KTorrent	/usr/share/applications/org.kde.ktorrent.desktop	ktorrent
+KWalletManager	/usr/share/applications/org.kde.kwalletmanager.desktop	kwalletmanager
+KWrite	/usr/share/applications/org.kde.kwrite.desktop	kwrite
+NeoChat	/usr/share/applications/org.kde.neochat.desktop	org.kde.neochat
+Okular	/usr/share/applications/org.kde.okular.desktop	okular
+KDE Partition Manager	/usr/share/applications/org.kde.partitionmanager.desktop	partitionmanager
+Welcome Center	/usr/share/applications/org.kde.plasma-welcome.desktop	start-here-kde-plasma
+Emoji Selector	/usr/share/applications/org.kde.plasma.emojier.desktop	preferences-desktop-emoticons
+Qrca	/usr/share/applications/org.kde.qrca.desktop	org.kde.qrca
+Skanpage	/usr/share/applications/org.kde.skanpage.desktop	skanpage
+Spectacle	/usr/share/applications/org.kde.spectacle.desktop	spectacle
+KiCad Image Converter	/usr/share/applications/org.kicad.bitmap2component.desktop	bitmap2component
+KiCad Schematic Editor (Standalone)	/usr/share/applications/org.kicad.eeschema.desktop	eeschema
+KiCad Gerber Viewer	/usr/share/applications/org.kicad.gerbview.desktop	gerbview
+KiCad	/usr/share/applications/org.kicad.kicad.desktop	kicad
+KiCad PCB Calculator	/usr/share/applications/org.kicad.pcbcalculator.desktop	pcbcalculator
+KiCad PCB Editor (Standalone)	/usr/share/applications/org.kicad.pcbnew.desktop	pcbnew
+Volume Control	/usr/share/applications/org.pulseaudio.pavucontrol.desktop	org.pulseaudio.pavucontrol
+Thonny	/usr/share/applications/org.thonny.Thonny.desktop	thonny
+Wireshark	/usr/share/applications/org.wireshark.Wireshark.desktop	org.wireshark.Wireshark
+Phoronix Test Suite	/usr/share/applications/phoronix-test-suite.desktop	phoronix-test-suite
+Qt5 Settings	/usr/share/applications/qt5ct.desktop	preferences-desktop-theme
+Qt6 Settings	/usr/share/applications/qt6ct.desktop	preferences-desktop-theme
+Remote Viewer	/usr/share/applications/remote-viewer.desktop	virt-viewer
+Rofi Theme Selector	/usr/share/applications/rofi-theme-selector.desktop	rofi
+Rofi	/usr/share/applications/rofi.desktop	rofi
+rxvt-unicode	/usr/share/applications/rxvt-unicode.desktop	utilities-terminal
+Rygel Preferences	/usr/share/applications/rygel-preferences.desktop	rygel
+scrcpy (console)	/usr/share/applications/scrcpy-console.desktop	scrcpy
+scrcpy	/usr/share/applications/scrcpy.desktop	scrcpy
+Spyder	/usr/share/applications/spyder.desktop	spyder
+Stacer	/usr/share/applications/stacer.desktop	stacer
+Steam	/usr/share/applications/steam.desktop	steam
+System Settings	/usr/share/applications/systemsettings.desktop	preferences-system
+TeXstudio	/usr/share/applications/texstudio.desktop	texstudio
+uuctl	/usr/share/applications/uuctl.desktop	applications-system
+Virtual Machine Manager	/usr/share/applications/virt-manager.desktop	virt-manager
+TigerVNC	/usr/share/applications/vncviewer.desktop	tigervnc
+Screenshot	/usr/share/applications/xfce4-screenshooter.desktop	org.xfce.screenshooter
+Icon Browser	/usr/share/applications/yad-icon-browser.desktop	yad
+Add Design Tools or Devices 2025.2	/home/rohan/.local/share/applications/Add Design Tools or Devices 2025.2_1770836675691.desktop	_home_rohan_Xilinx_Vivado_2025.2_.xinstall_2025.2_data_images_upgrade.png
+Documentation Navigator	/home/rohan/.local/share/applications/Documentation Navigator_1756656763130.desktop	_home_rohan_Downloads_executables_Vivado_DocNav_resources_doc_nav_application_48.png
+Manage Licenses 2025.2	/home/rohan/.local/share/applications/Manage Licenses 2025.2_1770836675665.desktop	_home_rohan_Xilinx_Vivado_2025.2_2025.2_Vivado_data_vlm_images_vlm_logo.png
+Uninstall 2025.2	/home/rohan/.local/share/applications/Uninstall 2025.2_1770836675678.desktop	_home_rohan_Xilinx_Vivado_2025.2_.xinstall_2025.2_data_images_xlnx_logo-256x256.png
+Uninstall DocNav	/home/rohan/.local/share/applications/Uninstall DocNav_1756656763130.desktop	_home_rohan_Downloads_executables_Vivado_.xinstall_DocNav_data_images_xlnx_logo-256x256.png
+Uninstall Xilinx Information Center	/home/rohan/.local/share/applications/Uninstall Xilinx Information Center_1770836675595.desktop	_home_rohan_Xilinx_Vivado_2025.2_.xinstall_xic_data_images_xlnx_logo-256x256.png
+Vitis 2025.2	/home/rohan/.local/share/applications/Vitis 2025.2_1770836675473.desktop	_home_rohan_Xilinx_Vivado_2025.2_2025.2_Vitis_doc_images_ide_icon.png
+Vitis Model Composer 2025.2	/home/rohan/.local/share/applications/Vitis Model Composer 2025.2_1770836675534.desktop	_home_rohan_Xilinx_Vivado_2025.2_2025.2_Model_Composer_data_images_Compiler.png
+Vivado 2025.2 Tcl Shell	/home/rohan/.local/share/applications/Vivado 2025.2 Tcl Shell_1770836675639.desktop	_usr_share_icons_gnome_32x32_apps_terminal.png
+Vivado 2025.2	/home/rohan/.local/share/applications/Vivado 2025.2_1770836675651.desktop	_home_rohan_Xilinx_Vivado_2025.2_2025.2_Vivado_doc_images_vivado_logo.png
+Xilinx Information Center	/home/rohan/.local/share/applications/Xilinx Information Center_1770836675608.desktop	_home_rohan_Xilinx_Vivado_2025.2_xic_data_images_xlnx_logo.png
+Arch-dev	/home/rohan/.local/share/applications/arch-dev.desktop	_home_rohan_.local_share_icons_distrobox_arch.png
+Centos-dev	/home/rohan/.local/share/applications/centos-dev.desktop	_home_rohan_.local_share_icons_distrobox_centos.png
+Debian-dev	/home/rohan/.local/share/applications/debian-dev.desktop	_home_rohan_.local_share_icons_distrobox_debian.png
+LM Studio	/home/rohan/.local/share/applications/lm_studio.desktop	_home_rohan_AppImages_.icons_lm_studio
+Opensuse-dev	/home/rohan/.local/share/applications/opensuse-dev.desktop	_home_rohan_.local_share_icons_distrobox_opensuse-tumbleweed.png
+Ubuntu20.04-dev	/home/rohan/.local/share/applications/ubuntu20.04-dev.desktop	_home_rohan_.local_share_icons_distrobox_ubuntu.png
+Perplexity	/home/rohan/.local/share/applications/waydroid.ai.perplexity.app.android.desktop	_home_rohan_.local_share_waydroid_data_icons_ai.perplexity.app.android.png
+Google Play Store	/home/rohan/.local/share/applications/waydroid.com.android.vending.desktop	_home_rohan_.local_share_waydroid_data_icons_com.android.vending.png
+Brave	/home/rohan/.local/share/applications/waydroid.com.brave.browser.desktop	_home_rohan_.local_share_waydroid_data_icons_com.brave.browser.png
+DrawNote	/home/rohan/.local/share/applications/waydroid.com.dragonnest.drawnote.desktop	_home_rohan_.local_share_waydroid_data_icons_com.dragonnest.drawnote.png
+Drive	/home/rohan/.local/share/applications/waydroid.com.google.android.apps.docs.desktop	_home_rohan_.local_share_waydroid_data_icons_com.google.android.apps.docs.png
+Messages	/home/rohan/.local/share/applications/waydroid.com.google.android.apps.messaging.desktop	_home_rohan_.local_share_waydroid_data_icons_com.google.android.apps.messaging.png
+ChatGPT	/home/rohan/.local/share/applications/waydroid.com.openai.chatgpt.desktop	_home_rohan_.local_share_waydroid_data_icons_com.openai.chatgpt.png
+Rally Fury	/home/rohan/.local/share/applications/waydroid.com.refuelgames.rally.desktop	_home_rohan_.local_share_waydroid_data_icons_com.refuelgames.rally.png
+WhatsApp	/home/rohan/.local/share/applications/waydroid.com.whatsapp.desktop	_home_rohan_.local_share_waydroid_data_icons_com.whatsapp.png
+HiPER Scientific Calculator	/home/rohan/.local/share/applications/waydroid.cz.hipercalc.desktop	_home_rohan_.local_share_waydroid_data_icons_cz.hipercalc.png
+Gartic.io	/home/rohan/.local/share/applications/waydroid.io.gartic.Gartic.desktop	_home_rohan_.local_share_waydroid_data_icons_io.gartic.Gartic.png
+Proton Pass	/home/rohan/.local/share/applications/waydroid.proton.android.pass.desktop	_home_rohan_.local_share_waydroid_data_icons_proton.android.pass.png
+Extension Manager	/var/lib/flatpak/exports/share/applications/com.mattjakeman.ExtensionManager.desktop	com.mattjakeman.ExtensionManager
+OBS Studio	/var/lib/flatpak/exports/share/applications/com.obsproject.Studio.desktop	com.obsproject.Studio
+Proton VPN	/var/lib/flatpak/exports/share/applications/com.protonvpn.www.desktop	com.protonvpn.www
+Spotify	/var/lib/flatpak/exports/share/applications/com.spotify.Client.desktop	com.spotify.Client
+STM32CubeMX	/var/lib/flatpak/exports/share/applications/com.st.STM32CubeMX.desktop	com.st.STM32CubeMX
+Ardour	/var/lib/flatpak/exports/share/applications/org.ardour.Ardour.desktop	org.ardour.Ardour
+Scilab	/var/lib/flatpak/exports/share/applications/org.scilab.Scilab.desktop	org.scilab.Scilab
+Scilab advanced CLI	/var/lib/flatpak/exports/share/applications/org.scilab.Scilab.scilab-adv-cli.desktop	org.scilab.Scilab
+Scilab CLI	/var/lib/flatpak/exports/share/applications/org.scilab.Scilab.scilab-cli.desktop	org.scilab.Scilab
+Scinotes	/var/lib/flatpak/exports/share/applications/org.scilab.Scilab.scinotes.desktop	org.scilab.Scilab.scinotes
+Xcos	/var/lib/flatpak/exports/share/applications/org.scilab.Scilab.xcos.desktop	org.scilab.Scilab.xcos
+VLC media player	/var/lib/flatpak/exports/share/applications/org.videolan.VLC.desktop	org.videolan.VLC
+Cave Story NX	/home/rohan/.local/share/flatpak/exports/share/applications/com.gitlab.coringao.cavestory-nx.desktop	com.gitlab.coringao.cavestory-nx
+Visual Studio Code	/home/rohan/.local/share/flatpak/exports/share/applications/com.visualstudio.code.desktop	com.visualstudio.code
+HandBrake	/home/rohan/.local/share/flatpak/exports/share/applications/fr.handbrake.ghb.desktop	fr.handbrake.ghb
+Hidamari	/home/rohan/.local/share/flatpak/exports/share/applications/io.github.jeffshee.Hidamari.desktop	io.github.jeffshee.Hidamari
+Follamac	/home/rohan/.local/share/flatpak/exports/share/applications/io.github.pejuko.follamac.desktop	io.github.pejuko.follamac
+Gear Lever	/home/rohan/.local/share/flatpak/exports/share/applications/it.mijorus.gearlever.desktop	it.mijorus.gearlever
+JamesDSP	/home/rohan/.local/share/flatpak/exports/share/applications/me.timschneeberger.jdsp4linux.desktop	me.timschneeberger.jdsp4linux
+Joplin	/home/rohan/.local/share/flatpak/exports/share/applications/net.cozic.joplin_desktop.desktop	net.cozic.joplin_desktop
+ProtonUp-Qt	/home/rohan/.local/share/flatpak/exports/share/applications/net.davidotek.pupgui2.desktop	net.davidotek.pupgui2
+LosslessCut	/home/rohan/.local/share/flatpak/exports/share/applications/no.mifi.losslesscut.desktop	no.mifi.losslesscut
+Drawy	/home/rohan/.local/share/flatpak/exports/share/applications/org.kde.drawy.desktop	org.kde.drawy
+ONLYOFFICE	/home/rohan/.local/share/flatpak/exports/share/applications/org.onlyoffice.desktopeditors.desktop	org.onlyoffice.desktopeditors
+TigerVNC Viewer	/home/rohan/.local/share/flatpak/exports/share/applications/org.tigervnc.vncviewer.desktop	org.tigervnc.vncviewer

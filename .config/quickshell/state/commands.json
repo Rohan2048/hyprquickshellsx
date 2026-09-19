@@ -1,0 +1,266 @@
+[
+  {
+    "group": "llmfit",
+    "commands": [
+      {
+        "cmd": "llmfit",
+        "terminal": true
+      }
+    ]
+  },
+  {
+    "group": "system",
+    "commands": [
+      {
+        "cmd": "sudo btop",
+        "terminal": true
+      },
+      {
+        "cmd": "sudo powertop",
+        "terminal": true
+      },
+      {
+        "cmd": "sudo tlp fullcharge",
+        "terminal": true
+      },
+      {
+        "cmd": "sudo powertop --csv=/home/rohan/powertop.csv --time=10 && grep -A 30 \"Top causes\" ~/powertop.csv",
+        "terminal": true
+      },
+      {
+        "cmd": "pkill -f xwaylandvideobridge ",
+        "terminal": true
+      },
+      {
+        "cmd": "ls /dev/ttyUSB* 2>/dev/null #check usb devices(useful for esp32 and similar boards)",
+        "terminal": true
+      },
+      {
+        "cmd": "ls /dev/ttyACM* 2>/dev/null #alternative command to check devices connected",
+        "terminal": true
+      },
+      {
+        "cmd": "sudo dmesg -w",
+        "terminal": true
+      },
+      {
+        "cmd": "sudo tlp-stat -b",
+        "terminal": true
+      },
+      {
+        "cmd": "sudo smartctl -a /dev/nvme0n1",
+        "terminal": true
+      }
+    ]
+  },
+  {
+    "group": "lm studio",
+    "commands": [
+      {
+        "cmd": "lms -h",
+        "terminal": true
+      },
+      {
+        "cmd": "lms import",
+        "terminal": true
+      },
+      {
+        "cmd": "mkdir -p ~/Downloads/MODELS/local/mymodel",
+        "terminal": true
+      },
+      {
+        "cmd": "mv ~/Downloads/MODELS/yourfile.gguf ~/Downloads/MODELS/local/mymodel/",
+        "terminal": true
+      },
+      {
+        "cmd": "~/.lmstudio/bin/lms bootstrap",
+        "terminal": true
+      },
+      {
+        "cmd": "lms ls",
+        "terminal": true
+      },
+      {
+        "cmd": "lms chat \"<model-key-from-ls>\"",
+        "terminal": true
+      },
+      {
+        "cmd": "lms load \"<model-key-from-ls>\" ",
+        "terminal": true
+      },
+      {
+        "cmd": "ls ~/.lmstudio/bin/",
+        "terminal": true
+      },
+      {
+        "cmd": "lms bootstrap",
+        "terminal": true
+      },
+      {
+        "cmd": "lms daemon up",
+        "terminal": true
+      },
+      {
+        "cmd": "lms",
+        "terminal": true
+      },
+      {
+        "cmd": "lms bootstrap --install",
+        "terminal": true
+      },
+      {
+        "cmd": "ls ~/.lmstudio/extensions/backends/",
+        "terminal": true
+      },
+      {
+        "cmd": "find ~/.lmstudio -iname \"*llmster*\" -o -iname \"*lms-daemon*\" 2>/dev/null ",
+        "terminal": true
+      },
+      {
+        "cmd": "find / -iname \"llmster*\" 2>/dev/null",
+        "terminal": true
+      },
+      {
+        "cmd": "rm ~/.lmstudio/.internal/llmster-pid.lock",
+        "terminal": true
+      },
+      {
+        "cmd": "rm -rf ~/.lmstudio",
+        "terminal": true
+      },
+      {
+        "cmd": "curl -fsSL https://lmstudio.ai/install.sh | bash 2>&1 | tee ~/lmstudio_install.log ",
+        "terminal": true
+      },
+      {
+        "cmd": "grep -i -E \"error|fail|fatal|warn\" ~/lmstudio_install.log",
+        "terminal": true
+      },
+      {
+        "cmd": "lms unload --all",
+        "terminal": true
+      },
+      {
+        "cmd": "lms import --copy ~/Downloads/MODELS/Hermes3/Hermes-3-Llama-3.1-8B.Q4_K_M.gguf ",
+        "terminal": true
+      },
+      {
+        "cmd": "nano ~/.lmstudio/mcp.json",
+        "terminal": true
+      },
+      {
+        "cmd": "lms daemon down",
+        "terminal": true
+      },
+      {
+        "cmd": "lms server start",
+        "terminal": true
+      },
+      {
+        "cmd": "echo $LM_API_TOKEN",
+        "terminal": true
+      },
+      {
+        "cmd": "export LM_API_TOKEN = \"TOKEN\" #get from \"Servers\"-->\"Manage Tokens\" --> \"Create token\"",
+        "terminal": true
+      },
+      {
+        "cmd": "lms ps #check model status",
+        "terminal": true
+      },
+      {
+        "cmd": "lms load qwen2.5-3b-instruct --gpu max",
+        "terminal": true
+      }
+    ]
+  },
+  {
+    "group": "vdirsyncer",
+    "commands": [
+      {
+        "cmd": "vdirsyncer discover google_calendar ",
+        "terminal": true
+      }
+    ]
+  },
+  {
+    "group": "ffmpeg",
+    "commands": [
+      {
+        "cmd": "ffmpeg -i \"2026-04-20 01-41-25.mp4\" -c:v libx264 -crf 40 -preset fast -g 24 -movflags +faststart -an hypr.mp4 ",
+        "terminal": true
+      }
+    ]
+  },
+  {
+    "group": "magic",
+    "commands": [
+      {
+        "cmd": "magic -T scmos ",
+        "terminal": true
+      },
+      {
+        "cmd": "exttospice file.ext",
+        "terminal": true
+      }
+    ]
+  },
+  {
+    "group": "waydroid",
+    "commands": [
+      {
+        "cmd": "sudo systemctl enable --now waydroid-container.service",
+        "terminal": true
+      },
+      {
+        "cmd": "waydroid session start &",
+        "terminal": true
+      },
+      {
+        "cmd": "waydroid show-full-ui",
+        "terminal": true
+      },
+      {
+        "cmd": "waydroid session stop &",
+        "terminal": true
+      }
+    ]
+  },
+  {
+    "group": "distrobox",
+    "commands": [
+      {
+        "cmd": "distrobox list",
+        "terminal": true
+      },
+      {
+        "cmd": "distrobox enter ubuntu20.04-dev",
+        "terminal": true
+      },
+      {
+        "cmd": "distrobox enter arch-dev",
+        "terminal": true
+      },
+      {
+        "cmd": "distrobox enter opensuse-dev",
+        "terminal": true
+      },
+      {
+        "cmd": "distrobox enter centos-dev",
+        "terminal": true
+      },
+      {
+        "cmd": "distrobox enter debian-dev",
+        "terminal": true
+      },
+      {
+        "cmd": "tigervncserver -kill :1",
+        "terminal": true
+      },
+      {
+        "cmd": "tigervncserver -geometry 1920x1080 -localhost no ",
+        "terminal": true
+      }
+    ]
+  }
+]
